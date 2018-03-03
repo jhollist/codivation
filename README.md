@@ -14,6 +14,9 @@ This repository contain some notes on why learning to code is a useful skill (be
 4. Tools useful beyond just science
 5. HUGE demand for capable coders
     - I've had positions go unfilled becuase lack of candidates.
-
+6. Pull out scripts from long ago and re-create figures etc. with ease
+7. Shiny
+8. R Markdown
+9. Community!
 ## Other links
 - [R Graph Gallery](https://www.r-graph-gallery.com)
