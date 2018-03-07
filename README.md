@@ -18,5 +18,6 @@ This repository contain some notes on why learning to code is a useful skill (be
 7. Shiny
 8. R Markdown
 9. Community!
+
 ## Other links
 - [R Graph Gallery](https://www.r-graph-gallery.com)
