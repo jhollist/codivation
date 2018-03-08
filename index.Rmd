@@ -36,22 +36,20 @@ options(htmltools.dir.version = FALSE)
 ---
 class: center, middle, inverse
 
-# Reproducibility
+# Why Code/Open Science/Etc?
 
 ---
-class: center, middle, inverse
 
-# Automation
+# Why?
 
----
-class: center, middle, inverse
+- Reproducibility
+- Automation
+- Precision
+- Demand
+- Community
+- Really Cool Tools
 
-# Precision
-
----
-class: center, middle, inverse
-
-# Demand
+![tweet](figures/community_initial_tweet.png)
 
 ---
 class: center, middle, inverse
@@ -69,6 +67,34 @@ background-size: cover
 class: center, middle, inverse
 
 # R Markdown
+
+---
+class: center, middle, inverse
+background-image: url('')
+background-size: cover
+
+# [Documents]()
+
+---
+class: center, middle, inverse
+background-image: url('')
+background-size: cover
+
+# [Interactive Documents]()
+
+---
+class: center, middle, inverse
+background-image: url('')
+background-size: cover
+
+# [Dashboards]()
+
+---
+class: center, middle, inverse
+background-image: url('')
+background-size: cover
+
+# [Presentations]()
 
 ---
 class: center, middle, inverse
@@ -117,10 +143,10 @@ background-size: cover
 
 ---
 class: center, middle, inverse
-background-image: url('')
+background-image: url('http://media.economist.com/sites/default/files/imagecache/original-size/FbMap.jpg')
 background-size: cover
 
-# [Interactive Maps]()
+# [More Maps](https://www.r-graph-gallery.com/connection-map/)
 
 ---
 class: center, middle, inverse
@@ -141,9 +167,6 @@ background-size: cover
 
 # Thanks!
 .center[
-
-![tweet](figures/community_initial_tweet.png)
-
 @rachelss, @benmarwick, @old_man_chester, @mark_scheuerell, @lowbrowR, @joshua_ulrich, @ma_salmon, @StephdeSilva, @Colauttilab, @jcardille, @GergelSarah, @noamross, @juliasilge, @RallidaeRule, @jebyrnes, @NSilbiger, @hormiga, @ctitusbrown, @gretchen_H2O, @TRACE_LAB, @AdamGruer, @ds_floresf, @CassieFreund, @KennyPeanuts, @mattansb, @iainmwallace
 
 Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
