@@ -1,9 +1,8 @@
 ---
-title: "Codivation: Motivation for scientists learning to code"
-subtitle: Yale Center for Industrial Ecology
-author: "Jeff Hollister"
-date: |
-  | 2018-03-09
+title: "Codivation:" 
+subtitle: "Why scientists should learn to code"
+author: Yale Center for Industrial Ecology
+date: 2018-03-09
 output:
   xaringan::moon_reader:
     css: ["default", "custom.css"]
@@ -46,10 +45,13 @@ class: center, middle, inverse
 - Automation
 - Precision
 - Demand
-- Community
-- Really Cool Tools
+- Really Cool Tools in R
 
 ![tweet](figures/community_initial_tweet.png)
+
+---
+
+# Why R (or what can't R do)?
 
 ---
 class: center, middle, inverse
@@ -70,31 +72,31 @@ class: center, middle, inverse
 
 ---
 class: center, middle, inverse
-background-image: url('')
+background-image: url('figures/document.png')
 background-size: cover
 
-# [Documents]()
+# [Documents](https://raw.githubusercontent.com/svmiller/svm-r-markdown-templates/master/svm-rmarkdown-article-example.Rmd)
 
 ---
 class: center, middle, inverse
-background-image: url('')
+background-image: url('figures/html_widgets.png')
 background-size: cover
 
-# [Interactive Documents]()
+# [Interactive Documents](https://rpubs.com/jcheng/leaflet-layers-example)
 
 ---
 class: center, middle, inverse
-background-image: url('')
-background-size: cover
+background-image: url('https://d33wubrfki0l68.cloudfront.net/d9a44be37fffb907e3b2a12a5dc795b6e3ff6d98/99b42/galleryimages/book2.png')
+background-size: contain
 
-# [Dashboards]()
+# [Books](https://bookdown.org/yihui/bookdown/)
 
 ---
 class: center, middle, inverse
-background-image: url('')
+background-image: url('figures/dashboard.png')
 background-size: cover
 
-# [Presentations]()
+# [Dashboards](https://gallery.shinyapps.io/cran-gauge/)
 
 ---
 class: center, middle, inverse
@@ -143,10 +145,10 @@ background-size: cover
 
 ---
 class: center, middle, inverse
-background-image: url('http://media.economist.com/sites/default/files/imagecache/original-size/FbMap.jpg')
+background-image: url('https://i0.wp.com/flowingdata.com/wp-content/uploads/2011/05/5-black-theme1.jpg')
 background-size: cover
 
-# [More Maps](https://www.r-graph-gallery.com/connection-map/)
+# [Connection Maps](https://flowingdata.com/2011/05/11/how-to-map-connections-with-great-circles/)
 
 ---
 class: center, middle, inverse
@@ -162,6 +164,14 @@ background-size: cover
 
 # [Interactive Sankey Diagrams](https://plot.ly/r/sankey-diagram/)
 
+---
+
+# Links for more motivation!
+
+- [R Graph Gallery](https://www.r-graph-gallery.com/)
+- [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html)
+- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+- [Show Me Shiny](https://www.showmeshiny.com/)
 
 ---
 

@@ -21,5 +21,9 @@ a {
   background-color: white;
 }
 
+.title-slide {
+  background-image: url(https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif);
+  background-size: cover;
+}
 
 
