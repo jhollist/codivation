@@ -1,0 +1,25 @@
+/* some custom css for slides
+
+/* Two-column layout */
+      .left-column {
+        width: 40%;
+        height: 92%;
+        float: left;
+        margin-top: 1em;
+        color: black;
+      }
+      
+      .right-column {
+        width: 55%;
+        float: right;
+        margin-top: -75px;
+        color: black;
+      }
+
+a {
+  color: #272822;
+  background-color: white;
+}
+
+
+
